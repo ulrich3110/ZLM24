@@ -35,3 +35,5 @@ Vollständiger Ablauf ohne manuelle Eingaben
 ## Ergebnis
 ![Screenshot of Results](zlm24_ergebnisse.png)
 
+## Weitere Informationen
+Bitte kontaktieren Sie mich: [andreas@erasand.ch](mailto:andreas@erasand.ch)

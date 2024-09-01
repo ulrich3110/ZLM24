@@ -33,4 +33,5 @@ Vollständiger Ablauf ohne manuelle Eingaben
 - Datei zlm24.py herunterladen und ausführen mit Python.
 
 ## Ergebnis
+![Screenshot of Results](zlm24_ergebnisse.png)
 

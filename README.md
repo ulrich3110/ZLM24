@@ -30,4 +30,4 @@ Vollständiger Ablauf ohne manuelle Eingaben
 - Installation von Python 3: (https://www.python.org/downloads/)
 - Installaton von Pandas: (https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 - Installation von Sklearn: (https://scikit-learn.org/stable/install.html)
-- DAlle Dateien herunterladen und im gleichen Verzeichnis ausführen mit Python.
+- Datei zlm24.py herunterladen und ausführen mit Python.

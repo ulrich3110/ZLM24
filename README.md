@@ -27,7 +27,7 @@ Ich habe das Maschinelle Lernen mit Python anhand von Lotto-Spielen ausprobiert.
 Vollständiger Ablauf ohne manuelle Eingaben
 
 ## Installation
-- Installation von Python 3, Pyython 3 Download (https://www.python.org/downloads/)
-- Installaton von Pandas: https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
-- Installation von Sklearn: https://scikit-learn.org/stable/install.html
+- Installation von Python 3: (https://www.python.org/downloads/)
+- Installaton von Pandas: (https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+- Installation von Sklearn: (https://scikit-learn.org/stable/install.html)
 - Download all files and run it inside the directory with Python.

@@ -33,7 +33,7 @@ Vollständiger Ablauf ohne manuelle Eingaben
 - Datei zlm24.py herunterladen und ausführen mit Python.
 
 ## Ergebnis
-![Screenshot of Results](zlm24_ergebnisse.png)
+![Screenshot of Results](zlm24_240901_ergebnisse.png)
 
 ## Weitere Informationen
 Bitte kontaktieren Sie mich: [andreas@erasand.ch](mailto:andreas@erasand.ch)
